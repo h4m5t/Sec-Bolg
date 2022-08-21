@@ -9,7 +9,7 @@
 * 下拉选择Bookmarks HTML File
 * 选择HTML文件导入即可（下载本仓库中的Sec-Blog.html）
 
-https://evilcos.me/)
+https://evilcos.me/
 
 https://www.leavesongs.com/
 
