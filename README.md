@@ -4,10 +4,11 @@
 
 **导入到Chrome书签栏**
 
+* 下载本仓库中的Sec-Blog.html
 * 打开谷歌浏览器，点击右上角的三个点
 * 点击书签->导入书签和设置
 * 下拉选择Bookmarks HTML File
-* 选择HTML文件导入即可（下载本仓库中的Sec-Blog.html）
+* 选择已下载的HTML文件导入即可
 
 https://evilcos.me/
 
